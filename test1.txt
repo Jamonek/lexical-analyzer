@@ -1,0 +1,8 @@
+void test(){
+int a;
+int b;
+int data;
+a = 5;
+b = 10;
+data = (a + b) + (a*b);
+}
